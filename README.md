@@ -20,13 +20,6 @@ The idea was sparked after I watched @Onyinyechukwu Ojike presentation on the @W
 - *DAX*
 - *Custom Visuals & Slicers*
 
-## Screenshots
-
-### Landing Page
-![Homepage](resume-building-report-view.png")
-
-### Resume Filtering Dashboard
-![Resume Filtering](images/resume-filtering-dashboard.png)
 
 ## Getting Started
 
